@@ -5,10 +5,7 @@
 //  Created by James Campagno on 7/29/16.
 //  Copyright © 2016 Flatiron School. All rights reserved.
 //
-//13. Create a method called speak(). This method should return the string ""ROAAAWWWWRRRRR!!!!!!".
-//14. Create a method called isFaster(thanTrex:). This method should take one parameter of type Trex called trex. It should return true if the instance of Trex which is calling on this method is called is faster than the parameter passed in. 15. Create a method called eat(otherTrex:). This method should take one parameter of type Trex called trex. If the instance of Trex which calls on this method is faster than the parameter that is passed in, it should "eat" the other Trex (by setting the other Trex's isAlive property to false).
-//
-//That's it! Try running the tests again. This time, they should pass. If they don't, take a look at these directions again and make sure you implemented everything properly, and keeping hammering away until the tests do pass!
+//second pull request
 
 
 
